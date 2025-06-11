@@ -1,0 +1,274 @@
+-------------------------------------------------------------
+                     THÔNG TIN 10 BLOCK 
+-------------------------------------------------------------
+
+┌ Khoi: 1
+├ So nonce: 86210
+├ Noi dung: Genesis Block
+└ Ma bam: 14844497253182600000
+
+┌ Khoi: 2
+├ So nonce: 12604
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 16938681472281300000
+
+┌ Khoi: 3
+├ So nonce: 24122
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 10694182515036600000
+
+┌ Khoi: 4
+├ So nonce: 39936
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 11546551777717300000
+
+┌ Khoi: 5
+├ So nonce: 52377
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 7793499959808800000
+
+┌ Khoi: 6
+├ So nonce: 26406
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 16083326464304100000
+
+┌ Khoi: 7
+├ So nonce: 97270
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 1822316179735500000
+
+┌ Khoi: 8
+├ So nonce: 156596
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 14961703391270300000
+
+┌ Khoi: 9
+├ So nonce: 12053
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 18394722296964200000
+
+┌ Khoi: 10
+├ So nonce: 163504
+├─────── Giao dich 1 ───────
+├ Nguoi gui: Nam
+├ Nguoi nhan: Em
+├ So luong: 25.50 BCH
+├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├─────── Giao dich 2 ───────
+├ Nguoi gui: Trung
+├ Nguoi nhan: Bao
+├ So luong: 2.50 LINK
+├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├─────── Giao dich 3 ───────
+├ Nguoi gui: Kimngan
+├ Nguoi nhan: Em
+├ So luong: 77.00 NEAR
+├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├─────── Giao dich 4 ───────
+├ Nguoi gui: Ngoc
+├ Nguoi nhan: Binh
+├ So luong: 97.00 ARB
+├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├─────── Giao dich 5 ───────
+├ Nguoi gui: Thien
+├ Nguoi nhan: Long
+├ So luong: 29.50 XLM
+├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
+└ Ma bam: 9573666484956900000
+
+-------------------------------------------------------------
+                             HẾT                             
+-------------------------------------------------------------
+
