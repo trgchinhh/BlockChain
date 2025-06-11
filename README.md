@@ -1,6 +1,6 @@
 # CHƯƠNG TRÌNH MÔ PHỎNG BLOCKCHAIN BẰNG C++
 
-## Link bài viết: [Xem tại đây](https://www.facebook.com/groups/116078792627399/permalink/1425201805048418/?rdid=XusG0jcgLmKJ0mA9#)
+<!--## Link bài viết: [Xem tại đây](https://www.facebook.com/groups/116078792627399/permalink/1425201805048418/?rdid=XusG0jcgLmKJ0mA9#)-->
 
 ## Chức năng
 - Từ genesis block ban đầu liên kết với block tiếp theo thông qua previous hash
