@@ -17,6 +17,7 @@
 # Screenshot 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6c4a405-6bf3-4412-828c-a3a1da684333" width="45%" />
-  <img src="https://github.com/user-attachments/assets/883960d6-697a-4aac-8b47-650b0e38cb21" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bbb1bad0-79a0-4e85-acb0-419d7a21e39e" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4fe87128-7fa5-41ab-bff5-c25e85931563" width="45%" />
 </p>
+
