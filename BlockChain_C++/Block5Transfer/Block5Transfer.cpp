@@ -45,7 +45,7 @@ bool bam_hop_le(const string& ket_qua_bam, int do_kho) {
 }
  
 string in_thong_tin_block(int so_thu_tu, int so_nonce, const vector<GiaoDich>& giao_dich, 
-                        string ket_qua_bam) {
+                        string ket_qua_bam, string ma_bam_truoc_do) {
     ostringstream oss;
     if(so_thu_tu != 1) {    
         oss << "\n┌ Khoi: " << so_thu_tu
@@ -58,8 +58,8 @@ string in_thong_tin_block(int so_thu_tu, int so_nonce, const vector<GiaoDich>& g
                 << "\n├ So luong: " << fixed << setprecision(2) << giao_dich[i].so_luong << " " << giao_dich[i].don_vi_tien_ma_hoa
                 << "\n├ Noi dung: " << giao_dich[i].noi_dung;
         }
-        
-        oss << "\n└ Ma bam: " << ket_qua_bam << "\n";
+        oss << "\n├ Ma bam truoc do: " << ma_bam_truoc_do
+            << "\n└ Ma bam hien tai: " << ket_qua_bam << "\n";
     } else {
         oss << "\n┌ Khoi: " << so_thu_tu
             << "\n├ So nonce: " << so_nonce
@@ -69,7 +69,8 @@ string in_thong_tin_block(int so_thu_tu, int so_nonce, const vector<GiaoDich>& g
     return oss.str(); 
 }
 
-void ghi_thong_tin_block_vao_file(ofstream& file, string& noidung) {
+void ghi_thong_tin_block_vao_file(string& duongdan, string& noidung) {
+    ofstream file(duongdan, ios::app); // ios::app tránh ghi đè từng giao dịch 
     file << noidung;
 }
 
@@ -106,11 +107,6 @@ void tao_chuoi_khoi(vector<string>& chuoi_khoi, int so_luong_khoi, int do_kho, v
                     vector<float>& danh_sach_tien_chuyen, vector<string>& danh_sach_tien_ma_hoa, string& duongdan) {
     string ma_bam_truoc_do = "";
     srand(time(0));
-    ofstream file(duongdan, ios::app);
-    file << "-------------------------------------------------------------\n";
-    file << "                     THÔNG TIN " << so_luong_khoi << " BLOCK \n";
-    file << "-------------------------------------------------------------\n";
-    
     for (int i = 1; i <= so_luong_khoi; i++) {
         Block khoi;
         khoi.so_thu_tu = i;
@@ -144,24 +140,18 @@ void tao_chuoi_khoi(vector<string>& chuoi_khoi, int so_luong_khoi, int do_kho, v
 
         khoi.ma_bam = ket_qua_bam;
         chuoi_khoi.push_back(khoi.ma_bam);
-        ma_bam_truoc_do = khoi.ma_bam;
         
         string thongtinghivaofile;
         if (i == 1) {
-            thongtinghivaofile = in_thong_tin_block(khoi.so_thu_tu, so_nonce, {}, ket_qua_bam);
+            thongtinghivaofile = in_thong_tin_block(khoi.so_thu_tu, so_nonce, {}, ket_qua_bam, ma_bam_truoc_do);
         } else {
-            thongtinghivaofile = in_thong_tin_block(khoi.so_thu_tu, so_nonce, khoi.giao_dich, ket_qua_bam);
+            thongtinghivaofile = in_thong_tin_block(khoi.so_thu_tu, so_nonce, khoi.giao_dich, ket_qua_bam, ma_bam_truoc_do);
         }
         
-        ghi_thong_tin_block_vao_file(file, thongtinghivaofile);
+        ghi_thong_tin_block_vao_file(duongdan, thongtinghivaofile);
         cout << thongtinghivaofile;
+        ma_bam_truoc_do = khoi.ma_bam;
     }
-    
-    file << "\n";
-    file << "-------------------------------------------------------------\n";
-    file << "                             HẾT                             \n";
-    file << "-------------------------------------------------------------\n";
-    file << "\n";
 }
 
 ___TruongChinh___ {
