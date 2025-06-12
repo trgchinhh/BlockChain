@@ -1,6 +1,3 @@
--------------------------------------------------------------
-                     THÔNG TIN 10 BLOCK 
--------------------------------------------------------------
 
 ┌ Khoi: 1
 ├ So nonce: 86210
@@ -8,267 +5,271 @@
 └ Ma bam: 14844497253182600000
 
 ┌ Khoi: 2
-├ So nonce: 12604
+├ So nonce: 8005
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 16938681472281300000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 14844497253182600000
+└ Ma bam hien tai: 7839960931011700000
 
 ┌ Khoi: 3
-├ So nonce: 24122
+├ So nonce: 39982
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 10694182515036600000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 7839960931011700000
+└ Ma bam hien tai: 10208372782447800000
 
 ┌ Khoi: 4
-├ So nonce: 39936
+├ So nonce: 17574
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 11546551777717300000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 10208372782447800000
+└ Ma bam hien tai: 4500156576151000000
 
 ┌ Khoi: 5
-├ So nonce: 52377
+├ So nonce: 21864
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 7793499959808800000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 4500156576151000000
+└ Ma bam hien tai: 11273248909534800000
 
 ┌ Khoi: 6
-├ So nonce: 26406
+├ So nonce: 72570
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 16083326464304100000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 11273248909534800000
+└ Ma bam hien tai: 7021317222433900000
 
 ┌ Khoi: 7
-├ So nonce: 97270
+├ So nonce: 20327
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 1822316179735500000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 7021317222433900000
+└ Ma bam hien tai: 7373351655634800000
 
 ┌ Khoi: 8
-├ So nonce: 156596
+├ So nonce: 183146
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 14961703391270300000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 7373351655634800000
+└ Ma bam hien tai: 7569023398268800000
 
 ┌ Khoi: 9
-├ So nonce: 12053
+├ So nonce: 14732
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 18394722296964200000
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 7569023398268800000
+└ Ma bam hien tai: 2848375720931000000
 
 ┌ Khoi: 10
-├ So nonce: 163504
+├ So nonce: 93772
 ├─────── Giao dich 1 ───────
-├ Nguoi gui: Nam
-├ Nguoi nhan: Em
-├ So luong: 25.50 BCH
-├ Noi dung: Nam chuyen khoan toi Em 25.50 (BCH)
+├ Nguoi gui: Chi
+├ Nguoi nhan: Nhut
+├ So luong: 21.50 DOGE
+├ Noi dung: Chi chuyen khoan toi Nhut 21.50 (DOGE)
 ├─────── Giao dich 2 ───────
-├ Nguoi gui: Trung
-├ Nguoi nhan: Bao
-├ So luong: 2.50 LINK
-├ Noi dung: Trung chuyen khoan toi Bao 2.50 (LINK)
+├ Nguoi gui: Xuan
+├ Nguoi nhan: Hai
+├ So luong: 93.00 ENJ
+├ Noi dung: Xuan chuyen khoan toi Hai 93.00 (ENJ)
 ├─────── Giao dich 3 ───────
-├ Nguoi gui: Kimngan
-├ Nguoi nhan: Em
-├ So luong: 77.00 NEAR
-├ Noi dung: Kimngan chuyen khoan toi Em 77.00 (NEAR)
+├ Nguoi gui: Thuy
+├ Nguoi nhan: Thien
+├ So luong: 44.00 THETA
+├ Noi dung: Thuy chuyen khoan toi Thien 44.00 (THETA)
 ├─────── Giao dich 4 ───────
-├ Nguoi gui: Ngoc
-├ Nguoi nhan: Binh
-├ So luong: 97.00 ARB
-├ Noi dung: Ngoc chuyen khoan toi Binh 97.00 (ARB)
+├ Nguoi gui: Loc
+├ Nguoi nhan: Hai
+├ So luong: 85.00 LDO
+├ Noi dung: Loc chuyen khoan toi Hai 85.00 (LDO)
 ├─────── Giao dich 5 ───────
-├ Nguoi gui: Thien
-├ Nguoi nhan: Long
-├ So luong: 29.50 XLM
-├ Noi dung: Thien chuyen khoan toi Long 29.50 (XLM)
-└ Ma bam: 9573666484956900000
-
--------------------------------------------------------------
-                             HẾT                             
--------------------------------------------------------------
-
+├ Nguoi gui: Mai
+├ Nguoi nhan: Xuan
+├ So luong: 95.50 XLM
+├ Noi dung: Mai chuyen khoan toi Xuan 95.50 (XLM)
+├ Ma bam truoc do: 2848375720931000000
+└ Ma bam hien tai: 1714886054151800000
