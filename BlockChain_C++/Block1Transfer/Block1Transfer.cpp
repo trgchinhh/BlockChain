@@ -95,9 +95,9 @@ void tao_chuoi_khoi(vector<string>& chuoi_khoi, int so_luong_khoi, int do_kho, v
         }
 
         // rut gon phan so 0 cua so luong trong noi dung chuyen khoan 
-        std::ostringstream oss;
-        oss << std::fixed << std::setprecision(2) << khoi.so_luong;
-        std::string str_soluong = oss.str();
+        ostringstream oss;
+        oss << fixed << setprecision(2) << khoi.so_luong;
+        string str_soluong = oss.str();
         khoi.noi_dung = khoi.nguoi_gui + " chuyen khoan toi " + khoi.nguoi_nhan + " " 
                         + str_soluong /*to_string(khoi.so_luong)*/ + " (" + khoi.don_vi_tien_ma_hoa + ")"; 
         
