@@ -1,0 +1,605 @@
+
+┌ Khoi: Khoi tao
+├ Ten sinh vien: N/A
+├ Ma sinh vien: N/A
+└ Ma bam khoi tao: 1363802686041400000
+
+┌ Khoi: 1
+├ Ten sinh vien: Lam
+├ Ma sinh vien: 1
+├ Ma bam truoc do: 1363802686041400000
+└ Ma bam hien tai: 6142528012398100000
+
+┌ Khoi: 2
+├ Ten sinh vien: Vu
+├ Ma sinh vien: 2
+├ Ma bam truoc do: 6142528012398100000
+└ Ma bam hien tai: 149583549002400000
+
+┌ Khoi: 3
+├ Ten sinh vien: Nhut
+├ Ma sinh vien: 3
+├ Ma bam truoc do: 149583549002400000
+└ Ma bam hien tai: 17678133245562700000
+
+┌ Khoi: 4
+├ Ten sinh vien: Tan
+├ Ma sinh vien: 4
+├ Ma bam truoc do: 17678133245562700000
+└ Ma bam hien tai: 12163298264234000000
+
+┌ Khoi: 5
+├ Ten sinh vien: Vankhanh
+├ Ma sinh vien: 5
+├ Ma bam truoc do: 12163298264234000000
+└ Ma bam hien tai: 11998289936873100000
+
+┌ Khoi: 6
+├ Ten sinh vien: Myanh
+├ Ma sinh vien: 6
+├ Ma bam truoc do: 11998289936873100000
+└ Ma bam hien tai: 15709661892021600000
+
+┌ Khoi: 7
+├ Ten sinh vien: Kimanh
+├ Ma sinh vien: 7
+├ Ma bam truoc do: 15709661892021600000
+└ Ma bam hien tai: 8885369668627900000
+
+┌ Khoi: 8
+├ Ten sinh vien: Long
+├ Ma sinh vien: 8
+├ Ma bam truoc do: 8885369668627900000
+└ Ma bam hien tai: 3310032739878700000
+
+┌ Khoi: 9
+├ Ten sinh vien: Dai
+├ Ma sinh vien: 9
+├ Ma bam truoc do: 3310032739878700000
+└ Ma bam hien tai: 6265595001296200000
+
+┌ Khoi: 10
+├ Ten sinh vien: Quynh
+├ Ma sinh vien: 10
+├ Ma bam truoc do: 6265595001296200000
+└ Ma bam hien tai: 5343039546966200000
+
+┌ Khoi: 11
+├ Ten sinh vien: Le
+├ Ma sinh vien: 11
+├ Ma bam truoc do: 5343039546966200000
+└ Ma bam hien tai: 16443362894688900000
+
+┌ Khoi: 12
+├ Ten sinh vien: Trong
+├ Ma sinh vien: 12
+├ Ma bam truoc do: 16443362894688900000
+└ Ma bam hien tai: 9647091397348300000
+
+┌ Khoi: 13
+├ Ten sinh vien: Nam
+├ Ma sinh vien: 13
+├ Ma bam truoc do: 9647091397348300000
+└ Ma bam hien tai: 14270226445236500000
+
+┌ Khoi: 14
+├ Ten sinh vien: Phuc
+├ Ma sinh vien: 14
+├ Ma bam truoc do: 14270226445236500000
+└ Ma bam hien tai: 9337838256253100000
+
+┌ Khoi: 15
+├ Ten sinh vien: Giang
+├ Ma sinh vien: 15
+├ Ma bam truoc do: 9337838256253100000
+└ Ma bam hien tai: 1610877555066500000
+
+┌ Khoi: 16
+├ Ten sinh vien: Nghi
+├ Ma sinh vien: 16
+├ Ma bam truoc do: 1610877555066500000
+└ Ma bam hien tai: 6863367844748300000
+
+┌ Khoi: 17
+├ Ten sinh vien: Thuytien
+├ Ma sinh vien: 17
+├ Ma bam truoc do: 6863367844748300000
+└ Ma bam hien tai: 10029445295762800000
+
+┌ Khoi: 18
+├ Ten sinh vien: Thinh
+├ Ma sinh vien: 18
+├ Ma bam truoc do: 10029445295762800000
+└ Ma bam hien tai: 4298022497184000000
+
+┌ Khoi: 19
+├ Ten sinh vien: Anhtu
+├ Ma sinh vien: 19
+├ Ma bam truoc do: 4298022497184000000
+└ Ma bam hien tai: 3176505944868600000
+
+┌ Khoi: 20
+├ Ten sinh vien: Hung
+├ Ma sinh vien: 20
+├ Ma bam truoc do: 3176505944868600000
+└ Ma bam hien tai: 5962864319375300000
+
+┌ Khoi: 21
+├ Ten sinh vien: Kimchi
+├ Ma sinh vien: 21
+├ Ma bam truoc do: 5962864319375300000
+└ Ma bam hien tai: 5533524406777000000
+
+┌ Khoi: 22
+├ Ten sinh vien: Quynh
+├ Ma sinh vien: 22
+├ Ma bam truoc do: 5533524406777000000
+└ Ma bam hien tai: 8359567645822500000
+
+┌ Khoi: 23
+├ Ten sinh vien: Khoa
+├ Ma sinh vien: 23
+├ Ma bam truoc do: 8359567645822500000
+└ Ma bam hien tai: 4059416083135200000
+
+┌ Khoi: 24
+├ Ten sinh vien: Loc
+├ Ma sinh vien: 24
+├ Ma bam truoc do: 4059416083135200000
+└ Ma bam hien tai: 8833910789481100000
+
+┌ Khoi: 25
+├ Ten sinh vien: Duong
+├ Ma sinh vien: 25
+├ Ma bam truoc do: 8833910789481100000
+└ Ma bam hien tai: 7851169651136100000
+
+┌ Khoi: 26
+├ Ten sinh vien: Kha
+├ Ma sinh vien: 26
+├ Ma bam truoc do: 7851169651136100000
+└ Ma bam hien tai: 11814734436338900000
+
+┌ Khoi: 27
+├ Ten sinh vien: Yen
+├ Ma sinh vien: 27
+├ Ma bam truoc do: 11814734436338900000
+└ Ma bam hien tai: 1115631444516400000
+
+┌ Khoi: 28
+├ Ten sinh vien: Thuy
+├ Ma sinh vien: 28
+├ Ma bam truoc do: 1115631444516400000
+└ Ma bam hien tai: 7266862843056200000
+
+┌ Khoi: 29
+├ Ten sinh vien: Daoanh
+├ Ma sinh vien: 29
+├ Ma bam truoc do: 7266862843056200000
+└ Ma bam hien tai: 4683125036670500000
+
+┌ Khoi: 30
+├ Ten sinh vien: Khoa
+├ Ma sinh vien: 30
+├ Ma bam truoc do: 4683125036670500000
+└ Ma bam hien tai: 1098684316582900000
+
+┌ Khoi: 31
+├ Ten sinh vien: Oanh
+├ Ma sinh vien: 31
+├ Ma bam truoc do: 1098684316582900000
+└ Ma bam hien tai: 1439103726415200000
+
+┌ Khoi: 32
+├ Ten sinh vien: Duy
+├ Ma sinh vien: 32
+├ Ma bam truoc do: 1439103726415200000
+└ Ma bam hien tai: 5130979565132300000
+
+┌ Khoi: 33
+├ Ten sinh vien: Dai
+├ Ma sinh vien: 33
+├ Ma bam truoc do: 5130979565132300000
+└ Ma bam hien tai: 147625788468400000
+
+┌ Khoi: 34
+├ Ten sinh vien: Daoanh
+├ Ma sinh vien: 34
+├ Ma bam truoc do: 147625788468400000
+└ Ma bam hien tai: 10782381005033600000
+
+┌ Khoi: 35
+├ Ten sinh vien: Tuan
+├ Ma sinh vien: 35
+├ Ma bam truoc do: 10782381005033600000
+└ Ma bam hien tai: 16577380195640100000
+
+┌ Khoi: 36
+├ Ten sinh vien: Hoa
+├ Ma sinh vien: 36
+├ Ma bam truoc do: 16577380195640100000
+└ Ma bam hien tai: 10810175213312100000
+
+┌ Khoi: 37
+├ Ten sinh vien: Tai
+├ Ma sinh vien: 37
+├ Ma bam truoc do: 10810175213312100000
+└ Ma bam hien tai: 7661607925177000000
+
+┌ Khoi: 38
+├ Ten sinh vien: Vy
+├ Ma sinh vien: 38
+├ Ma bam truoc do: 7661607925177000000
+└ Ma bam hien tai: 2211577340821700000
+
+┌ Khoi: 39
+├ Ten sinh vien: Cuong
+├ Ma sinh vien: 39
+├ Ma bam truoc do: 2211577340821700000
+└ Ma bam hien tai: 15131021009420200000
+
+┌ Khoi: 40
+├ Ten sinh vien: Duong
+├ Ma sinh vien: 40
+├ Ma bam truoc do: 15131021009420200000
+└ Ma bam hien tai: 5874036656610700000
+
+┌ Khoi: 41
+├ Ten sinh vien: Minh
+├ Ma sinh vien: 41
+├ Ma bam truoc do: 5874036656610700000
+└ Ma bam hien tai: 2780095100930800000
+
+┌ Khoi: 42
+├ Ten sinh vien: Vankhanh
+├ Ma sinh vien: 42
+├ Ma bam truoc do: 2780095100930800000
+└ Ma bam hien tai: 4849048274772800000
+
+┌ Khoi: 43
+├ Ten sinh vien: Dai
+├ Ma sinh vien: 43
+├ Ma bam truoc do: 4849048274772800000
+└ Ma bam hien tai: 16434539578822900000
+
+┌ Khoi: 44
+├ Ten sinh vien: Kha
+├ Ma sinh vien: 44
+├ Ma bam truoc do: 16434539578822900000
+└ Ma bam hien tai: 13209876324110700000
+
+┌ Khoi: 45
+├ Ten sinh vien: Khoa
+├ Ma sinh vien: 45
+├ Ma bam truoc do: 13209876324110700000
+└ Ma bam hien tai: 7899393200287500000
+
+┌ Khoi: 46
+├ Ten sinh vien: Dai
+├ Ma sinh vien: 46
+├ Ma bam truoc do: 7899393200287500000
+└ Ma bam hien tai: 3991575483916800000
+
+┌ Khoi: 47
+├ Ten sinh vien: Bich
+├ Ma sinh vien: 47
+├ Ma bam truoc do: 3991575483916800000
+└ Ma bam hien tai: 2305306439962600000
+
+┌ Khoi: 48
+├ Ten sinh vien: Trang
+├ Ma sinh vien: 48
+├ Ma bam truoc do: 2305306439962600000
+└ Ma bam hien tai: 18034436135892900000
+
+┌ Khoi: 49
+├ Ten sinh vien: Linh
+├ Ma sinh vien: 49
+├ Ma bam truoc do: 18034436135892900000
+└ Ma bam hien tai: 10982838029552900000
+
+┌ Khoi: 50
+├ Ten sinh vien: Tinh
+├ Ma sinh vien: 50
+├ Ma bam truoc do: 10982838029552900000
+└ Ma bam hien tai: 6882539853418900000
+
+┌ Khoi: 51
+├ Ten sinh vien: Long
+├ Ma sinh vien: 51
+├ Ma bam truoc do: 6882539853418900000
+└ Ma bam hien tai: 17100886114470400000
+
+┌ Khoi: 52
+├ Ten sinh vien: Thuan
+├ Ma sinh vien: 52
+├ Ma bam truoc do: 17100886114470400000
+└ Ma bam hien tai: 7916677281008400000
+
+┌ Khoi: 53
+├ Ten sinh vien: Duong
+├ Ma sinh vien: 53
+├ Ma bam truoc do: 7916677281008400000
+└ Ma bam hien tai: 13059198230349600000
+
+┌ Khoi: 54
+├ Ten sinh vien: Ngoctuan
+├ Ma sinh vien: 54
+├ Ma bam truoc do: 13059198230349600000
+└ Ma bam hien tai: 18235001230415100000
+
+┌ Khoi: 55
+├ Ten sinh vien: Cuong
+├ Ma sinh vien: 55
+├ Ma bam truoc do: 18235001230415100000
+└ Ma bam hien tai: 12909733283667400000
+
+┌ Khoi: 56
+├ Ten sinh vien: Duong
+├ Ma sinh vien: 56
+├ Ma bam truoc do: 12909733283667400000
+└ Ma bam hien tai: 12043545703370200000
+
+┌ Khoi: 57
+├ Ten sinh vien: Son
+├ Ma sinh vien: 57
+├ Ma bam truoc do: 12043545703370200000
+└ Ma bam hien tai: 3028447220671500000
+
+┌ Khoi: 58
+├ Ten sinh vien: Kha
+├ Ma sinh vien: 58
+├ Ma bam truoc do: 3028447220671500000
+└ Ma bam hien tai: 9022122143360600000
+
+┌ Khoi: 59
+├ Ten sinh vien: Trinh
+├ Ma sinh vien: 59
+├ Ma bam truoc do: 9022122143360600000
+└ Ma bam hien tai: 5573704431198900000
+
+┌ Khoi: 60
+├ Ten sinh vien: Son
+├ Ma sinh vien: 60
+├ Ma bam truoc do: 5573704431198900000
+└ Ma bam hien tai: 6238435980235400000
+
+┌ Khoi: 61
+├ Ten sinh vien: Thanhdat
+├ Ma sinh vien: 61
+├ Ma bam truoc do: 6238435980235400000
+└ Ma bam hien tai: 11016415082738000000
+
+┌ Khoi: 62
+├ Ten sinh vien: Vy
+├ Ma sinh vien: 62
+├ Ma bam truoc do: 11016415082738000000
+└ Ma bam hien tai: 10203974375710900000
+
+┌ Khoi: 63
+├ Ten sinh vien: Haiyen
+├ Ma sinh vien: 63
+├ Ma bam truoc do: 10203974375710900000
+└ Ma bam hien tai: 3207913400488400000
+
+┌ Khoi: 64
+├ Ten sinh vien: An
+├ Ma sinh vien: 64
+├ Ma bam truoc do: 3207913400488400000
+└ Ma bam hien tai: 1748259094872300000
+
+┌ Khoi: 65
+├ Ten sinh vien: Kimngan
+├ Ma sinh vien: 65
+├ Ma bam truoc do: 1748259094872300000
+└ Ma bam hien tai: 8681215232273200000
+
+┌ Khoi: 66
+├ Ten sinh vien: Trang
+├ Ma sinh vien: 66
+├ Ma bam truoc do: 8681215232273200000
+└ Ma bam hien tai: 1466770454291600000
+
+┌ Khoi: 67
+├ Ten sinh vien: Hung
+├ Ma sinh vien: 67
+├ Ma bam truoc do: 1466770454291600000
+└ Ma bam hien tai: 2293587025856400000
+
+┌ Khoi: 68
+├ Ten sinh vien: Duong
+├ Ma sinh vien: 68
+├ Ma bam truoc do: 2293587025856400000
+└ Ma bam hien tai: 9127135603922800000
+
+┌ Khoi: 69
+├ Ten sinh vien: Thanh
+├ Ma sinh vien: 69
+├ Ma bam truoc do: 9127135603922800000
+└ Ma bam hien tai: 3048042830500300000
+
+┌ Khoi: 70
+├ Ten sinh vien: Nhan
+├ Ma sinh vien: 70
+├ Ma bam truoc do: 3048042830500300000
+└ Ma bam hien tai: 300007503277300000
+
+┌ Khoi: 71
+├ Ten sinh vien: Kimchi
+├ Ma sinh vien: 71
+├ Ma bam truoc do: 300007503277300000
+└ Ma bam hien tai: 15957176164217300000
+
+┌ Khoi: 72
+├ Ten sinh vien: Tien
+├ Ma sinh vien: 72
+├ Ma bam truoc do: 15957176164217300000
+└ Ma bam hien tai: 11554974530922000000
+
+┌ Khoi: 73
+├ Ten sinh vien: Dao
+├ Ma sinh vien: 73
+├ Ma bam truoc do: 11554974530922000000
+└ Ma bam hien tai: 10791720985810500000
+
+┌ Khoi: 74
+├ Ten sinh vien: An
+├ Ma sinh vien: 74
+├ Ma bam truoc do: 10791720985810500000
+└ Ma bam hien tai: 9220274532835000000
+
+┌ Khoi: 75
+├ Ten sinh vien: Tan
+├ Ma sinh vien: 75
+├ Ma bam truoc do: 9220274532835000000
+└ Ma bam hien tai: 18261146187604500000
+
+┌ Khoi: 76
+├ Ten sinh vien: Vankhanh
+├ Ma sinh vien: 76
+├ Ma bam truoc do: 18261146187604500000
+└ Ma bam hien tai: 18085264990310200000
+
+┌ Khoi: 77
+├ Ten sinh vien: Thuytien
+├ Ma sinh vien: 77
+├ Ma bam truoc do: 18085264990310200000
+└ Ma bam hien tai: 18004063328200300000
+
+┌ Khoi: 78
+├ Ten sinh vien: Trinh
+├ Ma sinh vien: 78
+├ Ma bam truoc do: 18004063328200300000
+└ Ma bam hien tai: 2801396494199100000
+
+┌ Khoi: 79
+├ Ten sinh vien: Minh
+├ Ma sinh vien: 79
+├ Ma bam truoc do: 2801396494199100000
+└ Ma bam hien tai: 1535790011676100000
+
+┌ Khoi: 80
+├ Ten sinh vien: Tinh
+├ Ma sinh vien: 80
+├ Ma bam truoc do: 1535790011676100000
+└ Ma bam hien tai: 10960435937649700000
+
+┌ Khoi: 81
+├ Ten sinh vien: Thuan
+├ Ma sinh vien: 81
+├ Ma bam truoc do: 10960435937649700000
+└ Ma bam hien tai: 6961139228074200000
+
+┌ Khoi: 82
+├ Ten sinh vien: Nam
+├ Ma sinh vien: 82
+├ Ma bam truoc do: 6961139228074200000
+└ Ma bam hien tai: 16744505439828400000
+
+┌ Khoi: 83
+├ Ten sinh vien: Ngoctuan
+├ Ma sinh vien: 83
+├ Ma bam truoc do: 16744505439828400000
+└ Ma bam hien tai: 18255155225871300000
+
+┌ Khoi: 84
+├ Ten sinh vien: Thien
+├ Ma sinh vien: 84
+├ Ma bam truoc do: 18255155225871300000
+└ Ma bam hien tai: 6169065686957300000
+
+┌ Khoi: 85
+├ Ten sinh vien: Dai
+├ Ma sinh vien: 85
+├ Ma bam truoc do: 6169065686957300000
+└ Ma bam hien tai: 9929418073699400000
+
+┌ Khoi: 86
+├ Ten sinh vien: Binh
+├ Ma sinh vien: 86
+├ Ma bam truoc do: 9929418073699400000
+└ Ma bam hien tai: 805002277528200000
+
+┌ Khoi: 87
+├ Ten sinh vien: Le
+├ Ma sinh vien: 87
+├ Ma bam truoc do: 805002277528200000
+└ Ma bam hien tai: 18347923608248200000
+
+┌ Khoi: 88
+├ Ten sinh vien: Oanh
+├ Ma sinh vien: 88
+├ Ma bam truoc do: 18347923608248200000
+└ Ma bam hien tai: 4864369145093800000
+
+┌ Khoi: 89
+├ Ten sinh vien: Hai
+├ Ma sinh vien: 89
+├ Ma bam truoc do: 4864369145093800000
+└ Ma bam hien tai: 3591919314425000000
+
+┌ Khoi: 90
+├ Ten sinh vien: Loan
+├ Ma sinh vien: 90
+├ Ma bam truoc do: 3591919314425000000
+└ Ma bam hien tai: 8216159027817300000
+
+┌ Khoi: 91
+├ Ten sinh vien: Baoan
+├ Ma sinh vien: 91
+├ Ma bam truoc do: 8216159027817300000
+└ Ma bam hien tai: 11334543545945500000
+
+┌ Khoi: 92
+├ Ten sinh vien: Haiyen
+├ Ma sinh vien: 92
+├ Ma bam truoc do: 11334543545945500000
+└ Ma bam hien tai: 5360229253180300000
+
+┌ Khoi: 93
+├ Ten sinh vien: Hoa
+├ Ma sinh vien: 93
+├ Ma bam truoc do: 5360229253180300000
+└ Ma bam hien tai: 694691515774900000
+
+┌ Khoi: 94
+├ Ten sinh vien: Bao
+├ Ma sinh vien: 94
+├ Ma bam truoc do: 694691515774900000
+└ Ma bam hien tai: 1106163965959300000
+
+┌ Khoi: 95
+├ Ten sinh vien: Tien
+├ Ma sinh vien: 95
+├ Ma bam truoc do: 1106163965959300000
+└ Ma bam hien tai: 10428047509372900000
+
+┌ Khoi: 96
+├ Ten sinh vien: Phong
+├ Ma sinh vien: 96
+├ Ma bam truoc do: 10428047509372900000
+└ Ma bam hien tai: 16241831423119100000
+
+┌ Khoi: 97
+├ Ten sinh vien: Tien
+├ Ma sinh vien: 97
+├ Ma bam truoc do: 16241831423119100000
+└ Ma bam hien tai: 1537928431022200000
+
+┌ Khoi: 98
+├ Ten sinh vien: Lan
+├ Ma sinh vien: 98
+├ Ma bam truoc do: 1537928431022200000
+└ Ma bam hien tai: 192604207438000000
+
+┌ Khoi: 99
+├ Ten sinh vien: Thuy
+├ Ma sinh vien: 99
+├ Ma bam truoc do: 192604207438000000
+└ Ma bam hien tai: 12156433672293100000
+
+┌ Khoi: 100
+├ Ten sinh vien: Thuy
+├ Ma sinh vien: 100
+├ Ma bam truoc do: 12156433672293100000
+└ Ma bam hien tai: 121638548791100000
